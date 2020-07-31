@@ -16,43 +16,43 @@
 		FB550F8D24D00286002CAC81 /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB550F8C24D00286002CAC81 /* ______Tests.m */; };
 		FB550F9824D00286002CAC81 /* ______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB550F9724D00286002CAC81 /* ______UITests.m */; };
 		FB72D06424D0069700BD926E /* StartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D06324D0069700BD926E /* StartViewController.m */; };
-		FB72D06724D006E700BD926E /* pengpengpeng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D06524D006E700BD926E /* pengpengpeng.jpg */; };
-		FB72D06824D006E700BD926E /* gogogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D06624D006E700BD926E /* gogogo.jpg */; };
 		FB72D06B24D0071E00BD926E /* LandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D06A24D0071E00BD926E /* LandViewController.m */; };
-		FB72D06E24D00B8300BD926E /* 笑脸.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D06C24D00B8300BD926E /* 笑脸.png */; };
-		FB72D06F24D00B8300BD926E /* 盾牌.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D06D24D00B8300BD926E /* 盾牌.png */; };
-		FB72D07124D012D100BD926E /* 外星人.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07024D012D100BD926E /* 外星人.png */; };
-		FB72D07324D0133E00BD926E /* 安全.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07224D0133E00BD926E /* 安全.png */; };
-		FB72D07524D0138B00BD926E /* ufo.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07424D0138B00BD926E /* ufo.png */; };
-		FB72D07724D0141F00BD926E /* plz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07624D0141F00BD926E /* plz.jpg */; };
-		FB72D07A24D0175A00BD926E /* miley.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07824D0175A00BD926E /* miley.png */; };
-		FB72D07B24D0175A00BD926E /* tx.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07924D0175A00BD926E /* tx.png */; };
-		FB72D07E24D0193F00BD926E /* tx2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07C24D0193E00BD926E /* tx2.png */; };
-		FB72D07F24D0193F00BD926E /* pass.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D07D24D0193F00BD926E /* pass.png */; };
-		FB72D08124D01C0200BD926E /* gogogo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D08024D01C0200BD926E /* gogogo2.jpg */; };
 		FB72D08424D01C3100BD926E /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D08324D01C3100BD926E /* HomeViewController.m */; };
 		FB72D08724D01CFB00BD926E /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D08624D01CFB00BD926E /* RegisterViewController.m */; };
-		FB72D08A24D020A200BD926E /* pass2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D08824D020A100BD926E /* pass2.png */; };
-		FB72D08B24D020A200BD926E /* tx3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D08924D020A200BD926E /* tx3.png */; };
 		FB72D09124D05CC100BD926E /* HomeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D09024D05CC100BD926E /* HomeTableViewCell.m */; };
 		FB72D09424D0955900BD926E /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D09324D0955900BD926E /* AddViewController.m */; };
 		FB72D09724D0FED300BD926E /* DeleteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D09624D0FED300BD926E /* DeleteViewController.m */; };
 		FB72D09A24D0FEE800BD926E /* ChangeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D09924D0FEE800BD926E /* ChangeViewController.m */; };
 		FB72D09D24D0FEF900BD926E /* FindViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D09C24D0FEF900BD926E /* FindViewController.m */; };
-		FB72D0A424D1136800BD926E /* 退出.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0A324D1136800BD926E /* 退出.png */; };
-		FB72D0A624D15EEC00BD926E /* 文件.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0A524D15EEC00BD926E /* 文件.png */; };
-		FB72D0A824D1604000BD926E /* sure.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0A724D1604000BD926E /* sure.png */; };
 		FB72D0AB24D166C000BD926E /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D0AA24D166C000BD926E /* Student.m */; };
-		FB72D0AD24D1AFE700BD926E /* sure2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0AC24D1AFE700BD926E /* sure2.png */; };
-		FB72D0B224D25B5C00BD926E /* sure3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0B124D25B5C00BD926E /* sure3.png */; };
 		FB72D0B824D25F5D00BD926E /* Find2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB72D0B724D25F5D00BD926E /* Find2ViewController.m */; };
-		FB72D0BD24D2A80800BD926E /* sure4.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0BC24D2A80800BD926E /* sure4.png */; };
-		FB72D0BF24D2B37A00BD926E /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0BE24D2B37A00BD926E /* 11.png */; };
-		FB72D0C124D2B53100BD926E /* 分数.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0C024D2B53100BD926E /* 分数.png */; };
-		FB72D0C324D2EEE500BD926E /* 返回.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0C224D2EEE400BD926E /* 返回.png */; };
-		FB72D0C524D39FBD00BD926E /* 返回1.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0C424D39FBD00BD926E /* 返回1.png */; };
-		FB72D0C724D3A1EA00BD926E /* 返回2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0C624D3A1E900BD926E /* 返回2.png */; };
-		FB72D0C924D3A2B400BD926E /* 返回3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0C824D3A2B400BD926E /* 返回3.png */; };
+		FB72D0E624D3BC5E00BD926E /* 安全.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0CB24D3BC5E00BD926E /* 安全.png */; };
+		FB72D0E724D3BC5E00BD926E /* sure2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0CC24D3BC5E00BD926E /* sure2.png */; };
+		FB72D0E824D3BC5E00BD926E /* 盾牌.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0CD24D3BC5E00BD926E /* 盾牌.png */; };
+		FB72D0E924D3BC5E00BD926E /* sure3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0CE24D3BC5E00BD926E /* sure3.png */; };
+		FB72D0EA24D3BC5E00BD926E /* tx3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0CF24D3BC5E00BD926E /* tx3.png */; };
+		FB72D0EB24D3BC5E00BD926E /* tx2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D024D3BC5E00BD926E /* tx2.png */; };
+		FB72D0EC24D3BC5E00BD926E /* sure4.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D124D3BC5E00BD926E /* sure4.png */; };
+		FB72D0ED24D3BC5E00BD926E /* gogogo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D224D3BC5E00BD926E /* gogogo2.jpg */; };
+		FB72D0EE24D3BC5E00BD926E /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D324D3BC5E00BD926E /* 11.png */; };
+		FB72D0EF24D3BC5E00BD926E /* 外星人.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D424D3BC5E00BD926E /* 外星人.png */; };
+		FB72D0F024D3BC5E00BD926E /* 退出.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D524D3BC5E00BD926E /* 退出.png */; };
+		FB72D0F124D3BC5E00BD926E /* plz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D624D3BC5E00BD926E /* plz.jpg */; };
+		FB72D0F224D3BC5E00BD926E /* 返回3.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D724D3BC5E00BD926E /* 返回3.png */; };
+		FB72D0F324D3BC5E00BD926E /* ufo.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D824D3BC5E00BD926E /* ufo.png */; };
+		FB72D0F424D3BC5E00BD926E /* 返回2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0D924D3BC5E00BD926E /* 返回2.png */; };
+		FB72D0F524D3BC5E00BD926E /* pass2.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DA24D3BC5E00BD926E /* pass2.png */; };
+		FB72D0F624D3BC5E00BD926E /* 文件.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DB24D3BC5E00BD926E /* 文件.png */; };
+		FB72D0F724D3BC5E00BD926E /* 返回1.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DC24D3BC5E00BD926E /* 返回1.png */; };
+		FB72D0F824D3BC5E00BD926E /* pengpengpeng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DD24D3BC5E00BD926E /* pengpengpeng.jpg */; };
+		FB72D0F924D3BC5E00BD926E /* tx.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DE24D3BC5E00BD926E /* tx.png */; };
+		FB72D0FA24D3BC5E00BD926E /* sure.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0DF24D3BC5E00BD926E /* sure.png */; };
+		FB72D0FB24D3BC5E00BD926E /* gogogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E024D3BC5E00BD926E /* gogogo.jpg */; };
+		FB72D0FC24D3BC5E00BD926E /* 返回.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E124D3BC5E00BD926E /* 返回.png */; };
+		FB72D0FD24D3BC5E00BD926E /* miley.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E224D3BC5E00BD926E /* miley.png */; };
+		FB72D0FE24D3BC5E00BD926E /* 笑脸.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E324D3BC5E00BD926E /* 笑脸.png */; };
+		FB72D0FF24D3BC5E00BD926E /* pass.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E424D3BC5E00BD926E /* pass.png */; };
+		FB72D10024D3BC5E00BD926E /* 分数.png in Resources */ = {isa = PBXBuildFile; fileRef = FB72D0E524D3BC5E00BD926E /* 分数.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,27 +91,12 @@
 		FB550F9924D00286002CAC81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB72D06224D0069700BD926E /* StartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StartViewController.h; sourceTree = "<group>"; };
 		FB72D06324D0069700BD926E /* StartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StartViewController.m; sourceTree = "<group>"; };
-		FB72D06524D006E700BD926E /* pengpengpeng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pengpengpeng.jpg; sourceTree = "<group>"; };
-		FB72D06624D006E700BD926E /* gogogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gogogo.jpg; sourceTree = "<group>"; };
 		FB72D06924D0071E00BD926E /* LandViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LandViewController.h; sourceTree = "<group>"; };
 		FB72D06A24D0071E00BD926E /* LandViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LandViewController.m; sourceTree = "<group>"; };
-		FB72D06C24D00B8300BD926E /* 笑脸.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "笑脸.png"; sourceTree = "<group>"; };
-		FB72D06D24D00B8300BD926E /* 盾牌.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "盾牌.png"; sourceTree = "<group>"; };
-		FB72D07024D012D100BD926E /* 外星人.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "外星人.png"; sourceTree = "<group>"; };
-		FB72D07224D0133E00BD926E /* 安全.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "安全.png"; sourceTree = "<group>"; };
-		FB72D07424D0138B00BD926E /* ufo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ufo.png; sourceTree = "<group>"; };
-		FB72D07624D0141F00BD926E /* plz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plz.jpg; sourceTree = "<group>"; };
-		FB72D07824D0175A00BD926E /* miley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = miley.png; sourceTree = "<group>"; };
-		FB72D07924D0175A00BD926E /* tx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx.png; sourceTree = "<group>"; };
-		FB72D07C24D0193E00BD926E /* tx2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx2.png; sourceTree = "<group>"; };
-		FB72D07D24D0193F00BD926E /* pass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pass.png; sourceTree = "<group>"; };
-		FB72D08024D01C0200BD926E /* gogogo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gogogo2.jpg; sourceTree = "<group>"; };
 		FB72D08224D01C3100BD926E /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		FB72D08324D01C3100BD926E /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		FB72D08524D01CFB00BD926E /* RegisterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
 		FB72D08624D01CFB00BD926E /* RegisterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
-		FB72D08824D020A100BD926E /* pass2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pass2.png; sourceTree = "<group>"; };
-		FB72D08924D020A200BD926E /* tx3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx3.png; sourceTree = "<group>"; };
 		FB72D08F24D05CC100BD926E /* HomeTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeTableViewCell.h; sourceTree = "<group>"; };
 		FB72D09024D05CC100BD926E /* HomeTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeTableViewCell.m; sourceTree = "<group>"; };
 		FB72D09224D0955900BD926E /* AddViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
@@ -122,22 +107,37 @@
 		FB72D09924D0FEE800BD926E /* ChangeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChangeViewController.m; sourceTree = "<group>"; };
 		FB72D09B24D0FEF900BD926E /* FindViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FindViewController.h; sourceTree = "<group>"; };
 		FB72D09C24D0FEF900BD926E /* FindViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FindViewController.m; sourceTree = "<group>"; };
-		FB72D0A324D1136800BD926E /* 退出.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "退出.png"; sourceTree = "<group>"; };
-		FB72D0A524D15EEC00BD926E /* 文件.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "文件.png"; sourceTree = "<group>"; };
-		FB72D0A724D1604000BD926E /* sure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure.png; sourceTree = "<group>"; };
 		FB72D0A924D166C000BD926E /* Student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 		FB72D0AA24D166C000BD926E /* Student.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
-		FB72D0AC24D1AFE700BD926E /* sure2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure2.png; sourceTree = "<group>"; };
-		FB72D0B124D25B5C00BD926E /* sure3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure3.png; sourceTree = "<group>"; };
 		FB72D0B624D25F5D00BD926E /* Find2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Find2ViewController.h; sourceTree = "<group>"; };
 		FB72D0B724D25F5D00BD926E /* Find2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Find2ViewController.m; sourceTree = "<group>"; };
-		FB72D0BC24D2A80800BD926E /* sure4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure4.png; sourceTree = "<group>"; };
-		FB72D0BE24D2B37A00BD926E /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
-		FB72D0C024D2B53100BD926E /* 分数.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "分数.png"; sourceTree = "<group>"; };
-		FB72D0C224D2EEE400BD926E /* 返回.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回.png"; sourceTree = "<group>"; };
-		FB72D0C424D39FBD00BD926E /* 返回1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回1.png"; sourceTree = "<group>"; };
-		FB72D0C624D3A1E900BD926E /* 返回2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回2.png"; sourceTree = "<group>"; };
-		FB72D0C824D3A2B400BD926E /* 返回3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回3.png"; sourceTree = "<group>"; };
+		FB72D0CB24D3BC5E00BD926E /* 安全.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "安全.png"; sourceTree = "<group>"; };
+		FB72D0CC24D3BC5E00BD926E /* sure2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure2.png; sourceTree = "<group>"; };
+		FB72D0CD24D3BC5E00BD926E /* 盾牌.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "盾牌.png"; sourceTree = "<group>"; };
+		FB72D0CE24D3BC5E00BD926E /* sure3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure3.png; sourceTree = "<group>"; };
+		FB72D0CF24D3BC5E00BD926E /* tx3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx3.png; sourceTree = "<group>"; };
+		FB72D0D024D3BC5E00BD926E /* tx2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx2.png; sourceTree = "<group>"; };
+		FB72D0D124D3BC5E00BD926E /* sure4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure4.png; sourceTree = "<group>"; };
+		FB72D0D224D3BC5E00BD926E /* gogogo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gogogo2.jpg; sourceTree = "<group>"; };
+		FB72D0D324D3BC5E00BD926E /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		FB72D0D424D3BC5E00BD926E /* 外星人.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "外星人.png"; sourceTree = "<group>"; };
+		FB72D0D524D3BC5E00BD926E /* 退出.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "退出.png"; sourceTree = "<group>"; };
+		FB72D0D624D3BC5E00BD926E /* plz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plz.jpg; sourceTree = "<group>"; };
+		FB72D0D724D3BC5E00BD926E /* 返回3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回3.png"; sourceTree = "<group>"; };
+		FB72D0D824D3BC5E00BD926E /* ufo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ufo.png; sourceTree = "<group>"; };
+		FB72D0D924D3BC5E00BD926E /* 返回2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回2.png"; sourceTree = "<group>"; };
+		FB72D0DA24D3BC5E00BD926E /* pass2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pass2.png; sourceTree = "<group>"; };
+		FB72D0DB24D3BC5E00BD926E /* 文件.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "文件.png"; sourceTree = "<group>"; };
+		FB72D0DC24D3BC5E00BD926E /* 返回1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回1.png"; sourceTree = "<group>"; };
+		FB72D0DD24D3BC5E00BD926E /* pengpengpeng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pengpengpeng.jpg; sourceTree = "<group>"; };
+		FB72D0DE24D3BC5E00BD926E /* tx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tx.png; sourceTree = "<group>"; };
+		FB72D0DF24D3BC5E00BD926E /* sure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sure.png; sourceTree = "<group>"; };
+		FB72D0E024D3BC5E00BD926E /* gogogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gogogo.jpg; sourceTree = "<group>"; };
+		FB72D0E124D3BC5E00BD926E /* 返回.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "返回.png"; sourceTree = "<group>"; };
+		FB72D0E224D3BC5E00BD926E /* miley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = miley.png; sourceTree = "<group>"; };
+		FB72D0E324D3BC5E00BD926E /* 笑脸.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "笑脸.png"; sourceTree = "<group>"; };
+		FB72D0E424D3BC5E00BD926E /* pass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pass.png; sourceTree = "<group>"; };
+		FB72D0E524D3BC5E00BD926E /* 分数.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "分数.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,33 +168,7 @@
 		FB550F6424D00281002CAC81 = {
 			isa = PBXGroup;
 			children = (
-				FB72D06624D006E700BD926E /* gogogo.jpg */,
-				FB72D06524D006E700BD926E /* pengpengpeng.jpg */,
-				FB72D06D24D00B8300BD926E /* 盾牌.png */,
-				FB72D06C24D00B8300BD926E /* 笑脸.png */,
-				FB72D07024D012D100BD926E /* 外星人.png */,
-				FB72D07224D0133E00BD926E /* 安全.png */,
-				FB72D08824D020A100BD926E /* pass2.png */,
-				FB72D08924D020A200BD926E /* tx3.png */,
-				FB72D07424D0138B00BD926E /* ufo.png */,
-				FB72D07624D0141F00BD926E /* plz.jpg */,
-				FB72D07824D0175A00BD926E /* miley.png */,
-				FB72D07924D0175A00BD926E /* tx.png */,
-				FB72D07D24D0193F00BD926E /* pass.png */,
-				FB72D07C24D0193E00BD926E /* tx2.png */,
-				FB72D08024D01C0200BD926E /* gogogo2.jpg */,
-				FB72D0A324D1136800BD926E /* 退出.png */,
-				FB72D0A524D15EEC00BD926E /* 文件.png */,
-				FB72D0A724D1604000BD926E /* sure.png */,
-				FB72D0AC24D1AFE700BD926E /* sure2.png */,
-				FB72D0B124D25B5C00BD926E /* sure3.png */,
-				FB72D0BC24D2A80800BD926E /* sure4.png */,
-				FB72D0BE24D2B37A00BD926E /* 11.png */,
-				FB72D0C024D2B53100BD926E /* 分数.png */,
-				FB72D0C224D2EEE400BD926E /* 返回.png */,
-				FB72D0C424D39FBD00BD926E /* 返回1.png */,
-				FB72D0C624D3A1E900BD926E /* 返回2.png */,
-				FB72D0C824D3A2B400BD926E /* 返回3.png */,
+				FB72D0CA24D3BC5E00BD926E /* 管理系统图片 */,
 				FB550F6F24D00282002CAC81 /* 学生管理系统 */,
 				FB550F8B24D00286002CAC81 /* 学生管理系统Tests */,
 				FB550F9624D00286002CAC81 /* 学生管理系统UITests */,
@@ -316,6 +290,40 @@
 			path = Add;
 			sourceTree = "<group>";
 		};
+		FB72D0CA24D3BC5E00BD926E /* 管理系统图片 */ = {
+			isa = PBXGroup;
+			children = (
+				FB72D0CB24D3BC5E00BD926E /* 安全.png */,
+				FB72D0CC24D3BC5E00BD926E /* sure2.png */,
+				FB72D0CD24D3BC5E00BD926E /* 盾牌.png */,
+				FB72D0CE24D3BC5E00BD926E /* sure3.png */,
+				FB72D0CF24D3BC5E00BD926E /* tx3.png */,
+				FB72D0D024D3BC5E00BD926E /* tx2.png */,
+				FB72D0D124D3BC5E00BD926E /* sure4.png */,
+				FB72D0D224D3BC5E00BD926E /* gogogo2.jpg */,
+				FB72D0D324D3BC5E00BD926E /* 11.png */,
+				FB72D0D424D3BC5E00BD926E /* 外星人.png */,
+				FB72D0D524D3BC5E00BD926E /* 退出.png */,
+				FB72D0D624D3BC5E00BD926E /* plz.jpg */,
+				FB72D0D724D3BC5E00BD926E /* 返回3.png */,
+				FB72D0D824D3BC5E00BD926E /* ufo.png */,
+				FB72D0D924D3BC5E00BD926E /* 返回2.png */,
+				FB72D0DA24D3BC5E00BD926E /* pass2.png */,
+				FB72D0DB24D3BC5E00BD926E /* 文件.png */,
+				FB72D0DC24D3BC5E00BD926E /* 返回1.png */,
+				FB72D0DD24D3BC5E00BD926E /* pengpengpeng.jpg */,
+				FB72D0DE24D3BC5E00BD926E /* tx.png */,
+				FB72D0DF24D3BC5E00BD926E /* sure.png */,
+				FB72D0E024D3BC5E00BD926E /* gogogo.jpg */,
+				FB72D0E124D3BC5E00BD926E /* 返回.png */,
+				FB72D0E224D3BC5E00BD926E /* miley.png */,
+				FB72D0E324D3BC5E00BD926E /* 笑脸.png */,
+				FB72D0E424D3BC5E00BD926E /* pass.png */,
+				FB72D0E524D3BC5E00BD926E /* 分数.png */,
+			);
+			path = "管理系统图片";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -419,36 +427,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB72D07E24D0193F00BD926E /* tx2.png in Resources */,
-				FB72D07B24D0175A00BD926E /* tx.png in Resources */,
-				FB72D07724D0141F00BD926E /* plz.jpg in Resources */,
-				FB72D08B24D020A200BD926E /* tx3.png in Resources */,
-				FB72D06E24D00B8300BD926E /* 笑脸.png in Resources */,
-				FB72D07124D012D100BD926E /* 外星人.png in Resources */,
+				FB72D0F224D3BC5E00BD926E /* 返回3.png in Resources */,
+				FB72D0EB24D3BC5E00BD926E /* tx2.png in Resources */,
+				FB72D0FD24D3BC5E00BD926E /* miley.png in Resources */,
+				FB72D0E624D3BC5E00BD926E /* 安全.png in Resources */,
+				FB72D0FB24D3BC5E00BD926E /* gogogo.jpg in Resources */,
+				FB72D0EA24D3BC5E00BD926E /* tx3.png in Resources */,
 				FB550F8024D00286002CAC81 /* LaunchScreen.storyboard in Resources */,
-				FB72D0BD24D2A80800BD926E /* sure4.png in Resources */,
-				FB72D06724D006E700BD926E /* pengpengpeng.jpg in Resources */,
-				FB72D0C924D3A2B400BD926E /* 返回3.png in Resources */,
-				FB72D0B224D25B5C00BD926E /* sure3.png in Resources */,
-				FB72D06F24D00B8300BD926E /* 盾牌.png in Resources */,
+				FB72D0FA24D3BC5E00BD926E /* sure.png in Resources */,
+				FB72D0F524D3BC5E00BD926E /* pass2.png in Resources */,
+				FB72D0FC24D3BC5E00BD926E /* 返回.png in Resources */,
+				FB72D0F924D3BC5E00BD926E /* tx.png in Resources */,
+				FB72D0EE24D3BC5E00BD926E /* 11.png in Resources */,
+				FB72D0E724D3BC5E00BD926E /* sure2.png in Resources */,
+				FB72D0EF24D3BC5E00BD926E /* 外星人.png in Resources */,
+				FB72D0F124D3BC5E00BD926E /* plz.jpg in Resources */,
 				FB550F7D24D00286002CAC81 /* Assets.xcassets in Resources */,
-				FB72D0A624D15EEC00BD926E /* 文件.png in Resources */,
-				FB72D0C324D2EEE500BD926E /* 返回.png in Resources */,
-				FB72D0C124D2B53100BD926E /* 分数.png in Resources */,
+				FB72D10024D3BC5E00BD926E /* 分数.png in Resources */,
+				FB72D0F324D3BC5E00BD926E /* ufo.png in Resources */,
+				FB72D0F624D3BC5E00BD926E /* 文件.png in Resources */,
 				FB550F7B24D00282002CAC81 /* Main.storyboard in Resources */,
-				FB72D07A24D0175A00BD926E /* miley.png in Resources */,
-				FB72D0C524D39FBD00BD926E /* 返回1.png in Resources */,
-				FB72D0C724D3A1EA00BD926E /* 返回2.png in Resources */,
-				FB72D0BF24D2B37A00BD926E /* 11.png in Resources */,
-				FB72D08A24D020A200BD926E /* pass2.png in Resources */,
-				FB72D0A824D1604000BD926E /* sure.png in Resources */,
-				FB72D07F24D0193F00BD926E /* pass.png in Resources */,
-				FB72D07324D0133E00BD926E /* 安全.png in Resources */,
-				FB72D0AD24D1AFE700BD926E /* sure2.png in Resources */,
-				FB72D07524D0138B00BD926E /* ufo.png in Resources */,
-				FB72D0A424D1136800BD926E /* 退出.png in Resources */,
-				FB72D08124D01C0200BD926E /* gogogo2.jpg in Resources */,
-				FB72D06824D006E700BD926E /* gogogo.jpg in Resources */,
+				FB72D0FF24D3BC5E00BD926E /* pass.png in Resources */,
+				FB72D0FE24D3BC5E00BD926E /* 笑脸.png in Resources */,
+				FB72D0F424D3BC5E00BD926E /* 返回2.png in Resources */,
+				FB72D0EC24D3BC5E00BD926E /* sure4.png in Resources */,
+				FB72D0E824D3BC5E00BD926E /* 盾牌.png in Resources */,
+				FB72D0F824D3BC5E00BD926E /* pengpengpeng.jpg in Resources */,
+				FB72D0F024D3BC5E00BD926E /* 退出.png in Resources */,
+				FB72D0E924D3BC5E00BD926E /* sure3.png in Resources */,
+				FB72D0F724D3BC5E00BD926E /* 返回1.png in Resources */,
+				FB72D0ED24D3BC5E00BD926E /* gogogo2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
